@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "automention",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "JR_SANTO ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ DK TEAM_ ☢️",
 	description: "automent [mentioned]",
 	commandCategory: "other",
 	cooldowns: 5
