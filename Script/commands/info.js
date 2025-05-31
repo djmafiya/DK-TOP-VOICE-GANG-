@@ -98,7 +98,7 @@ module.exports.config = {
  name: "info",
  version: "1.2.6",
  hasPermssion: 0,
- credits: "Picchi Santo",
+ credits: "Shaon Ahmed",
  description: "🥰আসসালামু আলাইকুম 🥰",
  commandCategory: "For users",
  hide:true,
@@ -190,9 +190,9 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 
 𝗢𝘄𝗻𝗲𝗿 𝗜𝗱 𝗹𝗶𝗻𝗸:☞https://www.facebook.com/profile.php?id=61576178227081
 
-𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽☞ NAI😬
+𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽☞01631813286
 
-______________________________\n\n----↓↓𝙍𝙤𝙗𝙤𝙩 𝙖𝙘𝙩𝙞𝙫𝙚 𝙩𝙞𝙢𝙚↓↓----\n\n ${hours} : ${minutes} : ${seconds} second(s)\n\n______________________________\n» 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: ${global.data.allUserID.length} \n\n» 𝗧𝗢𝗧𝗔𝗟 𝗚𝗥𝗢𝗨𝗣: ${global.data.allThreadID.length}\n______________________________\n\n thanks for using \n DK TOP VOICE ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 
+______________________________\n\n----↓↓𝙍𝙤𝙗𝙤𝙩 𝙖𝙘𝙩𝙞𝙫𝙚 𝙩𝙞𝙢𝙚↓↓----\n\n ${hours} : ${minutes} : ${seconds} second(s)\n\n______________________________\n» 𝗧𝗢𝗧𝗔𝗟 𝗨𝗦𝗘𝗥𝗦: ${global.data.allUserID.length} \n\n» 𝗧𝗢𝗧𝗔𝗟 𝗚𝗥𝗢𝗨𝗣: ${global.data.allThreadID.length}\n______________________________\n\n thanks for using \n DK SANTO ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 
 \n--------------------------------------------------\n\n☢️☣️⚠️`, attachment: fs.createReadStream(__dirname + "/cache/kensu.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/kensu.jpg"));
  return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname + "/cache/kensu.jpg")).on("close", () => callback()); 
  }
