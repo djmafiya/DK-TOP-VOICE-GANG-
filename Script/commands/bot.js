@@ -56,18 +56,18 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "sujon") || (event.body.toLowerCase() == "Sujon bai") || (event.body.toLowerCase() == "sujon") || (event.body.toLowerCase() == "@ITS' S3XY FMZ KING SANTO NA XUDI FMZ NAH XUDI GALIBUZ IM NUMBAR ONE GALIBUZ ABAL TERA REAL DADDY CALL ME DADDY ABAL NOT ALLOW DONT DESTRAP ME I AM SO BUSY")) {
+  if ((event.body.toLowerCase() == "sujon") || (event.body.toLowerCase() == "Sujon bai") || (event.body.toLowerCase() == "sujon") || (event.body.toLowerCase() == "@লোগো দাও শান্ত")) {
      return api.sendMessage("উনি এখন মাগি চুদে তাই অনেক বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "ceo")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ Sujon ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 sujon.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :-https://www.facebook.com/sujonxn123?mibextid=ZbWKwL\nতার সাতে যোগা যোগ করবেন WhatsApp :- +018131015++", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ Santo☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 sujon.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :-https://www.facebook.com/61576178227081=ZbWKwL\nতার সাতে যোগা যোগ করবেন WhatsApp :- +018131015++", threadID);
    };
 
    if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
-     return api.sendMessage("My Creator:Sujon ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস শান্ত আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
+     return api.sendMessage("My Creator:santo ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস শান্ত আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
@@ -87,7 +87,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️- ওয়ালাইকুমুস-সালাম-!!🖤", threadID);
    };
 
-   if ((event.body.toLowerCase() == "sala ami tor boss") || (event.body.toLowerCase() == "sala ami sujon") || (event.body.toLowerCase() == "cup ami Santo") || (event.body.toLowerCase() == "madari")) {
+   if ((event.body.toLowerCase() == "sala ami tor boss") || (event.body.toLowerCase() == "sala ami sujon") || (event.body.toLowerCase() == "cup ami Santo") || (event.body.toLowerCase() == "মাদারী")) {
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
@@ -107,7 +107,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস শান্তর বউ এর আইডি..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@〲РЇССНЇ 〆. ツMâLツ࿐ ") || (event.body.toLowerCase() == "@〲РЇССНЇ 〆. ツMâLツ࿐")) {
+  if ((event.body.toLowerCase() == "শান্ত কইツ࿐ ") || (event.body.toLowerCase() == "@〲РЇССНЇ 〆. ツMâLツ࿐")) {
      return api.sendMessage("🥰-শান্ত🌺 আমার বস নিল এর বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
