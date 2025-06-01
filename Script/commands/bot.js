@@ -63,7 +63,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "ceo")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ Santo ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 Santo.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :-https://www.facebook.com/61576178227081=ZbWKwL\nতার সাতে যোগা যোগ করবেন WhatsApp :- +018131015++", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ Sujon ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 sujon.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :-https://www.facebook.com/sujonxn123?mibextid=ZbWKwL\nতার সাতে যোগা যোগ করবেন WhatsApp :- +018131015++", threadID);
    };
 
    if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
@@ -87,19 +87,19 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️- ওয়ালাইকুমুস-সালাম-!!🖤", threadID);
    };
 
-   if ((event.body.toLowerCase() == "sala ami Santo") || (event.body.toLowerCase() == "sala ami sujon") || (event.body.toLowerCase() == "cup ami Santo") || (event.body.toLowerCase() == "madari")) {
+   if ((event.body.toLowerCase() == "sala ami tor boss") || (event.body.toLowerCase() == "sala ami sujon") || (event.body.toLowerCase() == "cup ami Santo") || (event.body.toLowerCase() == "madari")) {
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@মা্ঁতা্ঁল্ঁ রা্ঁজা্ঁ তা্ঁহ্ঁ") || (event.body.toLowerCase() == "মাফিয়া কই")) {
+   if ((event.body.toLowerCase() == "@Farhana Ontora") || (event.body.toLowerCase() == "@মাফিয়া কই")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস শান্তর বন্দুর আইড়ি সে একন মাগি চুদে বিজি আছে😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@মা্ঁতা্ঁল্ঁ রা্ঁজা্ঁ তা্ঁহ্ঁ") || (event.body.toLowerCase() == "মাফিয়া কই আছে")) {
+  if ((event.body.toLowerCase() == "Farhana") || (event.body.toLowerCase() == "arohi")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস শান্তর বন্দুর আইড়ি সে একন মাগি চুদে বিজি আছে😠🥰⛏️", threadID);
    };
   
-  if ((event.body.toLowerCase() == "মাফিয়া কই আছে") || (event.body.toLowerCase() == "@মা্ঁতা্ঁল্ঁ রা্ঁজা্ঁ তা্ঁহ্ঁ ")) {
+  if ((event.body.toLowerCase() == "mim") || (event.body.toLowerCase() == "@মা্ঁতা্ঁল্ঁ রা্ঁজা্ঁ তা্ঁহ্ঁ ")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস শান্তর বন্দুর আইড়ি সে একন মাগি চুদে বিজি আছে😠🥰⛏️", threadID);
    };
 
@@ -195,7 +195,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("হুম ঝাং আমি তোমাকে রাইতে ভলোপাসি <🥵", threadID);
    };
 
-   if ((event.body.toLowerCase() == "ami santo") || (event.body.toLowerCase() == "kire")) {
+   if ((event.body.toLowerCase() == "ami sujon") || (event.body.toLowerCase() == "kire")) {
      return api.sendMessage("হ্যা বস কেমন আছেন..?☺️", threadID);
    };
   mess = "{name}"
