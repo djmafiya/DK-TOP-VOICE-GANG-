@@ -56,7 +56,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "santo") || (event.body.toLowerCase() == "santo") || (event.body.toLowerCase() == "santo") || (event.body.toLowerCase() == "শান্ত")) {
+  if ((event.body.toLowerCase() == "santo") || (event.body.toLowerCase() == "@〲РЇССНЇ 〆. ツMâLツ࿐") || (event.body.toLowerCase() == "santo") || (event.body.toLowerCase() == "শান্ত")) {
      return api.sendMessage("উনি এখন মাগি চোদার জন বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
@@ -99,7 +99,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস শান্তর বন্ধুর আইড়ি সে একন মাগি চুদে বিজি আছে😠🥰⛏️", threadID);
    };
   
-  if ((event.body.toLowerCase() == "mafiya koi") || (event.body.toLowerCase() == "moni")) {
+  if ((event.body.toLowerCase() == "মাফিয়া কই রে") || (event.body.toLowerCase() == "@〲РЇССНЇ 〆. ツMâLツ࿐ ")) {
      return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস শান্তর বন্ধুর আইড়ি সে একন মাগি চুদে বিজি আছে😠🥰⛏️", threadID);
    };
 
