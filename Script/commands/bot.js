@@ -155,8 +155,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️ এইদিকে ওইদিকে কি দেখো জানু আমি তোমার সামনে দেখো😘", threadID);
    };
 
-   if ((event.body.toLowerCase() == "আমি তোমাকে কেও ভালো বাসে না") || (event.body.toLowerCase() == "নিড জামাই") || (event.body.toLowerCase() == "Aj kew nai bole")) {
-     return api.sendMessage("️চিন্তা করো কেন আমার বস শান্ত তো আছে🫶/nতোমাকে রাইতে ভালোবাসবে", threadID);
+   if ((event.body.toLowerCase() == " আমাকে কেও ভালো বাসে না") || (event.body.toLowerCase() == "মনি কই রে") || (event.body.toLowerCase() == "Aj kew nai bole")) {
+     return api.sendMessage("️"মনি এখন বর্তমানে পাট খেতে আছে🤰 মাফিয়ার সাথে প্রেম করে কট খাইছে😫 একন বেদে রাকছে😭 পাট কেতে আমার বস শান্ত গেছে আনার জন ", threadID);
    };
 
    if ((event.body.toLowerCase() == "gf") || (event.body.toLowerCase() == "bf")) {
@@ -196,7 +196,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "ami santo") || (event.body.toLowerCase() == "kire")) {
-     return api.sendMessage("হ্যা বস কেমন আছেন..?☺️", threadID);
+     return api.sendMessage("হ্যা বস কেমন আছেন আমার আম্মু আরোসি কেমন আছে..?☺️", threadID);
    };
   mess = "{name}"
   
