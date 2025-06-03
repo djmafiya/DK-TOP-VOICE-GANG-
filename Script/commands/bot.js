@@ -40,8 +40,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("এত হাই-হ্যালো চুদাছ কেনো বোকাচোদা..!🍆⛏️🐸🤣", threadID);
    };
 
-   if ((event.body.toLowerCase() == "bc") || (event.body.toLowerCase() == "mc")) {
-     return api.sendMessage("SAME TO YOU😊 ", threadID);
+   if ((event.body.toLowerCase() == "মনি কই রে") || (event.body.toLowerCase() == "mc")) {
+     return api.sendMessage("মনি এখন বর্তমানে পাট খেতে আছে🤰 মাফিয়ার সাথে প্রেম করে কট খাইছে😫 একন বেদে রাকছে😭 পাট কেতে আমার বস শান্ত গেছে আনার জন🥹 ", threadID);
    };
 
    if ((event.body.toLowerCase() == "pro") || (event.body.toLowerCase() == "lol")) {
