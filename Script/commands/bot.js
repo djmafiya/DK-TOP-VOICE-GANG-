@@ -45,7 +45,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "pro") || (event.body.toLowerCase() == "lol")) {
-     return api.sendMessage("Khud k0o KYa LeGend SmJhTi Hai 😂", threadID);
+     return api.sendMessage(""মনি এখন বর্তমানে পাট খেতে আছে🤰মাফিয়ার সাথে প্রেম করে কট খাইছে😫 একন বেদে রাকছে😭 পাট কেতে আমার বস শান্ত গেছে আনার জন ", threadID);
    };
 
    if ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
