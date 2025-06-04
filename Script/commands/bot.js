@@ -175,8 +175,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("আমি তখনই ভালো থাকি যখন আপনাকে হাসতে দেখি🤎☺️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "mon kharap") || (event.body.toLowerCase() == "tmr ki mon kharap")) {
-     return api.sendMessage("আমার সাদা মনে কোনো কাদা নাই...!🌝", threadID);
+   if ((event.body.toLowerCase() == "@ইঁন্টাঁরঁন্যাঁশঁনাঁলঁ ভাঁবঁওঁয়াঁলাঁ") || (event.body.toLowerCase() == "আরিফ")) {
+     return api.sendMessage("এটা আমার বস শান্তর বাগনা আরিফ😊সে অনেক ভালো কিন্তু অনেক বড় মাগিবাজ😫ভালো হয়ে জা আরিফ🤖...!🌝", threadID);
    };
 
    if ((event.body.toLowerCase() == "i love you") || (event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "I Love You") || (event.body.toLowerCase() == "ভালোবাসি") || (event.body.toLowerCase() == "i love you")) {
