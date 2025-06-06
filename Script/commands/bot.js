@@ -111,7 +111,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("🥰-শান্ত🌺 আমার বস শান্তর' বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "এই রনক ") || (event.body.toLowerCase() == "kiss me")) {
+   if ((event.body.toLowerCase() == "এই রনক ") || (event.body.toLowerCase() == "রনক")) {
      return api.sendMessage("️ চি এটা একটা মাগিবাজ ওর নুনু ছোট্ট😑 বলে বউ পালিয়ে গেছে🥹 একন হারবাল খায় নুনু বড় করার জন্য😫 এটার তেকে মেয়েরা দুরে তাকবে😤 🤭", threadID);
    };
 
@@ -127,8 +127,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️হুম চোদাইস না মাথা এমনিতেই গরম আছে🤬⛏️😷", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Name") || (event.body.toLowerCase() == "name") || (event.body.toLowerCase() == "Tor nam ki")) {
-     return api.sendMessage("️MY NAME IS °_>আমার নাই🙃আমার বস শান্ত মাফিয়া", threadID);
+   if ((event.body.toLowerCase() == "@UFF MISTY──😘😈🪼🩶🪽󱢏 ") || (event.body.toLowerCase() == "মামুনি") || (event.body.toLowerCase() == "Tor nam ki")) {
+     return api.sendMessage("️এটা আমার বস শান্তর মেয়ে হয়🤩 কেও বাজে কথা বলবি না😊 আমার শান্ত জানলে🌝 তরে গ্রপে রাকবে না😤", threadID);
    };
 
    if ((event.body.toLowerCase() == "BOT ER BACCHA") || (event.body.toLowerCase() == "Bot er bacca")) {
