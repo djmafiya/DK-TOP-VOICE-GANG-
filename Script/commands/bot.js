@@ -111,8 +111,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("🥰-শান্ত🌺 আমার বস শান্তর' বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "KISS ME") || (event.body.toLowerCase() == "kiss me")) {
-     return api.sendMessage("️ তুমি পঁচা তোমাকে কিস দিবো না 🤭", threadID);
+   if ((event.body.toLowerCase() == "এই রনক ") || (event.body.toLowerCase() == "kiss me")) {
+     return api.sendMessage("️ চি এটা একটা মাগিবাজ ওর নুনু ছোট্ট😑 বলে বউ পালিয়ে গেছে🥹 একন হারবাল খায় নুনু বড় করার জন্য😫 এটার তেকে মেয়েরা দুরে তাকবে😤 🤭", threadID);
    };
 
    if ((event.body.toLowerCase() == "tnx") || (event.body.toLowerCase() == "ধন্যবাদ") || (event.body.toLowerCase() == "thank you") || (event.body.toLowerCase() == "thanks")) {
